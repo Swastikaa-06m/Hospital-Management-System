@@ -20,14 +20,14 @@ A simple Java-based project to manage basic hospital operations like:
 1. *Clone the repository*  
 ```bash
 git clone https://github.com/Swastikaa-06m/Hospital-Management-System.git
-Open in IntelliJ IDEA
+2.Open in IntelliJ IDEA
 IntelliJ IDEA → File > Open → Select the cloned folder
 
-Set up MySQL Database
+3.Set up MySQL Database
 
-Create a database in MySQL
+--Create a database in MySQL
 
-Configure the DB connection in your Java code
+--Configure the DB connection in your Java code
 
-Run the application
+4.Run the application
 Run Main.java from the src/ folder
